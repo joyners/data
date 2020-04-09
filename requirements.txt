@@ -9,4 +9,4 @@ numpy
 folium
 seaborn
 datetime
-plotly.graph_objects
+plotly
