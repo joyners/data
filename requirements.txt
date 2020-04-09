@@ -5,3 +5,8 @@ textblob
 plotly-express
 voila
 matplotlib
+numpy
+folium
+seaborn
+datetime
+plotly.graph_objects
